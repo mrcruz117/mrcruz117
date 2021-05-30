@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Michael and I'm a fullstack sofware developer. I enjoy solving problems and getting to know others better through collaborating on projects.
+I'm Michael and I'm a fullstack sofware developer. I enjoy solving problems and getting to know others better through collaborating on projects. I'm looking forward to helping you solve your problems and create cool things.
 
 - 🔭 I’m currently working on a workout tracking app
 - 🌱 I’m currently learning React-native
