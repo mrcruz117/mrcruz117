@@ -5,5 +5,5 @@ I'm Michael and I'm a fullstack sofware developer. I enjoy solving problems and 
 - 🔭 I’m currently working on a workout tracking app
 - 🌱 I’m currently learning React-native
 - 💬 Ask me about my latest project
-- 📫 How to reach me: mrcruz1989@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/mrcruz117/
 - ⚡ Fun fact: I like music and beatboxing
