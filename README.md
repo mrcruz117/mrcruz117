@@ -5,6 +5,6 @@ I'm Michael and I'm a fullstack sofware developer. I enjoy solving problems and 
 
 - 🌱 I’m currently working on ml 🤖
 - 💬 Ask me about my latest project
-- 📫 How to reach me: https://www.linkedin.com/in/mrcruz117/
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/mrcruz117/)
 - Check out my [website](https://mrcruz117.github.io/portfolio/)! 
 - ⚡ Fun fact: I like music and beatboxing
