@@ -6,5 +6,4 @@ I'm Michael and I'm a fullstack sofware developer. I enjoy solving problems and 
 - 🌱 Having fun working on cli tooling with Go🐹
 - 💬 Ask me about my latest project
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/mrcruz117/)
-- Check out my [website](https://mrcruz117.github.io/portfolio/)! 
 - ⚡ Fun fact: I like music and beatboxing
